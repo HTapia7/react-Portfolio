@@ -19,3 +19,7 @@
     margin: 20px;
     font-size: 25px;
 }
+
+.links a.active{
+    color: skyblue;
+}
