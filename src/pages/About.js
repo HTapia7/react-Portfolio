@@ -8,11 +8,11 @@ function About() {
                         <img src={img1} alt=""/>
                 </div>
                 <div className="about">
-                    <h1>Hi, My name is Hernan</h1>
+                    <h2>Hi, My name is Hernan</h2>
                     <div className="intro">I am a software developer and I enjoying creating applications. I enjoy learning new things and improving on what I know.</div>
                 </div>
                 <div className="skills">
-                    <h1>Skills</h1>
+                    <h1>Skills: </h1>
                     <ol className="list">
                         <li className="item">
                             <h2>Front-End</h2>

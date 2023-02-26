@@ -13,3 +13,13 @@
 .footer p {
     color: white;
 }
+
+.socialLink {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+.socialLink:hover {
+    color: skyblue;
+}
